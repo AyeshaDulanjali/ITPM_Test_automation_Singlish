@@ -3,7 +3,7 @@
 This project automates the testing of a Singlish-to-Sinhala chat translator tool using **Playwright** and **Python**. It performs automated input entry from an Excel sheet and captures the actual output and pass/fail status.
 
 ## Features
-- Automates 50+ test cases (Positive and Negative).
+- Automates 50+ test cases (Negative).
 - Captures screenshots for failed test cases.
 - Generates a detailed HTML test report.
 - Saves results directly to an Excel workbook.
