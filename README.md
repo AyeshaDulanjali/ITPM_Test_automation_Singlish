@@ -1,6 +1,6 @@
 # Singlish to Sinhala Chat-Translator Test Automation
 
-This project automates the testing of a Singlish-to-Sinhala chat translator tool using **Playwright** and **Python**. It performs automated input entry from an Excel sheet and captures the actual output and pass/fail status.
+This repository contains a comprehensive test automation suite designed for a Singlish to Sinhala Chat-Translator. The primary objective is to evaluate the linguistic accuracy and technical reliability of the translation engine when processing informal, phonetic, and code-mixed Singlish inputs. By utilizing automated testing scripts, this project ensures that colloquial expressions and digital short-hands are correctly mapped to their native Sinhala equivalents.
 
 ## Features
 - Automates 50+ test cases (Negative).
